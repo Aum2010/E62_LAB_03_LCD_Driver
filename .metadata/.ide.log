@@ -1,0 +1,496 @@
+2564-03-24 22:26:29,171 [INFO] Activator:170 - 
+
+
+2564-03-24 22:26:29,173 [INFO] Activator:171 - !SESSION log4j initialized
+2564-03-24 22:26:54,145 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2564-03-24 22:26:54,148 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2564-03-24 22:26:54,367 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2564-03-24 22:26:54,367 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2564-03-24 22:26:55,852 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2564-03-24 22:26:55,852 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2564-03-24 22:26:56,230 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2564-03-24 22:26:56,231 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2564-03-24 22:26:56,584 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2564-03-24 22:26:56,584 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2564-03-24 22:26:56,986 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2564-03-24 22:26:56,986 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2564-03-24 22:26:57,397 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2564-03-24 22:26:57,398 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2564-03-24 22:26:57,772 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2564-03-24 22:26:57,773 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2564-03-24 22:26:58,150 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2564-03-24 22:26:58,150 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2564-03-24 22:26:58,556 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2564-03-24 22:26:58,556 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2564-03-24 22:26:59,001 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2564-03-24 22:26:59,002 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2564-03-24 22:26:59,395 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2564-03-24 22:26:59,396 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2564-03-24 22:26:59,778 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2564-03-24 22:26:59,778 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2564-03-24 22:27:00,142 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2564-03-24 22:27:00,142 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2564-03-24 22:27:00,473 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2564-03-24 22:27:00,474 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2564-03-24 22:32:11,128 [INFO] McuFinderGlobals:39 - Set McuFinder mode to 2 (CubeIDE integrated)
+2564-03-24 22:32:12,802 [INFO] ApplicationProperties:181 - Using Application install path: C:\ST\STM32CubeIDE_1.6.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.2.0.202102191602
+2564-03-24 22:32:12,818 [INFO] DbMcusXml:74 - Set database path to: C:\ST\STM32CubeIDE_1.6.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.2.0.202102191602\\db\/mcu/
+2564-03-24 22:32:12,825 [INFO] DbBoardsPdsc:56 - Set plugin database path to: C:\ST\STM32CubeIDE_1.6.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.2.0.202102191602\\db\/plugins/boardmanager/
+2564-03-24 22:32:12,826 [INFO] DbMcus:258 - Set plugin images path to: C:\ST\STM32CubeIDE_1.6.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.2.0.202102191602\\db\/plugins/mcufinder/images/
+2564-03-24 22:32:12,826 [INFO] DbBoards:264 - Set plugin images path to: C:\ST\STM32CubeIDE_1.6.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.2.0.202102191602\\db\/plugins/mcufinder/images/
+2564-03-24 22:32:12,830 [INFO] DbExamples:333 - Set plugin images path to: C:\ST\STM32CubeIDE_1.6.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.2.0.202102191602\\db\/plugins/mcufinder/images/
+2564-03-24 22:32:12,848 [INFO] DbMcusAds:85 - Set database path to: C:\Users\PC\.stmcufinder\plugins\mcufinder//mcu/
+2564-03-24 22:32:12,850 [INFO] DbMcusDocs:110 - Set database path to: C:\Users\PC\.stmcufinder\plugins\mcufinder//mcu/
+2564-03-24 22:32:12,854 [INFO] DbMcusJson:65 - Set database path to: C:\Users\PC\.stmcufinder\plugins\mcufinder//mcu/
+2564-03-24 22:32:12,855 [INFO] DbBoardsDocs:110 - Set database path to: C:\Users\PC\.stmcufinder\plugins\mcufinder//mcu/
+2564-03-24 22:32:12,857 [INFO] DbBoardsJson:58 - Set database path to: C:\Users\PC\.stmcufinder\plugins\mcufinder//mcu/
+2564-03-24 22:32:12,868 [INFO] CrossReferenceDbSqlite:196 - Set database path to: C:\Users\PC\.stmcufinder\plugins\mcufinder//mcu/cs/
+2564-03-24 22:32:12,873 [INFO] DbExamplesSqlite:690 - Set database path to: C:\Users\PC\.stmcufinder\plugins\mcufinder//mcu/
+2564-03-24 22:32:13,038 [INFO] RulesReader:52 - Compatibility file has been processed (237 Rules)
+2564-03-24 22:32:13,253 [INFO] MicroXplorer:622 - Detected Java Version = 11.0.9.1
+2564-03-24 22:32:13,255 [INFO] DbMcusXml:74 - Set database path to: C:\ST\STM32CubeIDE_1.6.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.2.0.202102191602\\db\/mcu/
+2564-03-24 22:32:13,255 [INFO] DbBoardsPdsc:56 - Set plugin database path to: C:\ST\STM32CubeIDE_1.6.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.2.0.202102191602\\db\/plugins/boardmanager/
+2564-03-24 22:32:13,256 [INFO] DbMcus:258 - Set plugin images path to: C:\ST\STM32CubeIDE_1.6.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.2.0.202102191602\\db\/plugins/mcufinder/images/
+2564-03-24 22:32:13,256 [INFO] DbBoards:264 - Set plugin images path to: C:\ST\STM32CubeIDE_1.6.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.2.0.202102191602\\db\/plugins/mcufinder/images/
+2564-03-24 22:32:13,256 [INFO] DbExamples:333 - Set plugin images path to: C:\ST\STM32CubeIDE_1.6.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.2.0.202102191602\\db\/plugins/mcufinder/images/
+2564-03-24 22:32:13,256 [WARN] DbFile:35 - Overriding database path with different value: C:\Users\PC\.stmcufinder\plugins\mcufinder/ => C:\Users\PC\.stmcufinder\plugins\mcufinder
+2564-03-24 22:32:13,257 [INFO] DbMcusAds:85 - Set database path to: C:\Users\PC\.stmcufinder\plugins\mcufinder//mcu/
+2564-03-24 22:32:13,257 [WARN] DbFile:35 - Overriding database path with different value: C:\Users\PC\.stmcufinder\plugins\mcufinder/ => C:\Users\PC\.stmcufinder\plugins\mcufinder
+2564-03-24 22:32:13,257 [INFO] DbMcusDocs:110 - Set database path to: C:\Users\PC\.stmcufinder\plugins\mcufinder//mcu/
+2564-03-24 22:32:13,257 [WARN] DbFile:35 - Overriding database path with different value: C:\Users\PC\.stmcufinder\plugins\mcufinder/ => C:\Users\PC\.stmcufinder\plugins\mcufinder
+2564-03-24 22:32:13,257 [INFO] DbMcusJson:65 - Set database path to: C:\Users\PC\.stmcufinder\plugins\mcufinder//mcu/
+2564-03-24 22:32:13,257 [WARN] DbFile:35 - Overriding database path with different value: C:\Users\PC\.stmcufinder\plugins\mcufinder/ => C:\Users\PC\.stmcufinder\plugins\mcufinder
+2564-03-24 22:32:13,258 [INFO] DbBoardsDocs:110 - Set database path to: C:\Users\PC\.stmcufinder\plugins\mcufinder//mcu/
+2564-03-24 22:32:13,258 [WARN] DbFile:35 - Overriding database path with different value: C:\Users\PC\.stmcufinder\plugins\mcufinder/ => C:\Users\PC\.stmcufinder\plugins\mcufinder
+2564-03-24 22:32:13,259 [INFO] DbBoardsJson:58 - Set database path to: C:\Users\PC\.stmcufinder\plugins\mcufinder//mcu/
+2564-03-24 22:32:13,259 [WARN] DbFile:35 - Overriding database path with different value: C:\Users\PC\.stmcufinder\plugins\mcufinder/ => C:\Users\PC\.stmcufinder\plugins\mcufinder
+2564-03-24 22:32:13,259 [WARN] DbFile:35 - Overriding database path with different value: C:\Users\PC\.stmcufinder\plugins\mcufinder/ => C:\Users\PC\.stmcufinder\plugins\mcufinder
+2564-03-24 22:32:13,259 [INFO] CrossReferenceDbSqlite:196 - Set database path to: C:\Users\PC\.stmcufinder\plugins\mcufinder//mcu/cs/
+2564-03-24 22:32:13,259 [WARN] DbFile:35 - Overriding database path with different value: C:\Users\PC\.stmcufinder\plugins\mcufinder/ => C:\Users\PC\.stmcufinder\plugins\mcufinder
+2564-03-24 22:32:13,260 [INFO] DbExamplesSqlite:690 - Set database path to: C:\Users\PC\.stmcufinder\plugins\mcufinder//mcu/
+2564-03-24 22:32:13,397 [INFO] MainPanel:204 - HeapMemory: 598736896
+2564-03-24 22:32:13,515 [INFO] DbMcusXml:74 - Set database path to: C:\ST\STM32CubeIDE_1.6.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.2.0.202102191602\\db\/mcu/
+2564-03-24 22:32:13,516 [INFO] DbBoardsPdsc:56 - Set plugin database path to: C:\ST\STM32CubeIDE_1.6.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.2.0.202102191602\\db\/plugins/boardmanager/
+2564-03-24 22:32:13,516 [INFO] DbMcus:258 - Set plugin images path to: C:\ST\STM32CubeIDE_1.6.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.2.0.202102191602\\db\/plugins/mcufinder/images/
+2564-03-24 22:32:13,516 [INFO] DbBoards:264 - Set plugin images path to: C:\ST\STM32CubeIDE_1.6.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.2.0.202102191602\\db\/plugins/mcufinder/images/
+2564-03-24 22:32:13,516 [INFO] DbExamples:333 - Set plugin images path to: C:\ST\STM32CubeIDE_1.6.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.2.0.202102191602\\db\/plugins/mcufinder/images/
+2564-03-24 22:32:13,517 [WARN] DbFile:35 - Overriding database path with different value: C:\Users\PC\.stmcufinder\plugins\mcufinder/ => C:\Users\PC\.stmcufinder\plugins\mcufinder
+2564-03-24 22:32:13,517 [INFO] DbMcusAds:85 - Set database path to: C:\Users\PC\.stmcufinder\plugins\mcufinder//mcu/
+2564-03-24 22:32:13,518 [WARN] DbFile:35 - Overriding database path with different value: C:\Users\PC\.stmcufinder\plugins\mcufinder/ => C:\Users\PC\.stmcufinder\plugins\mcufinder
+2564-03-24 22:32:13,518 [INFO] DbMcusDocs:110 - Set database path to: C:\Users\PC\.stmcufinder\plugins\mcufinder//mcu/
+2564-03-24 22:32:13,518 [WARN] DbFile:35 - Overriding database path with different value: C:\Users\PC\.stmcufinder\plugins\mcufinder/ => C:\Users\PC\.stmcufinder\plugins\mcufinder
+2564-03-24 22:32:13,518 [INFO] DbMcusJson:65 - Set database path to: C:\Users\PC\.stmcufinder\plugins\mcufinder//mcu/
+2564-03-24 22:32:13,518 [WARN] DbFile:35 - Overriding database path with different value: C:\Users\PC\.stmcufinder\plugins\mcufinder/ => C:\Users\PC\.stmcufinder\plugins\mcufinder
+2564-03-24 22:32:13,519 [INFO] DbBoardsDocs:110 - Set database path to: C:\Users\PC\.stmcufinder\plugins\mcufinder//mcu/
+2564-03-24 22:32:13,519 [WARN] DbFile:35 - Overriding database path with different value: C:\Users\PC\.stmcufinder\plugins\mcufinder/ => C:\Users\PC\.stmcufinder\plugins\mcufinder
+2564-03-24 22:32:13,519 [INFO] DbBoardsJson:58 - Set database path to: C:\Users\PC\.stmcufinder\plugins\mcufinder//mcu/
+2564-03-24 22:32:13,519 [WARN] DbFile:35 - Overriding database path with different value: C:\Users\PC\.stmcufinder\plugins\mcufinder/ => C:\Users\PC\.stmcufinder\plugins\mcufinder
+2564-03-24 22:32:13,519 [WARN] DbFile:35 - Overriding database path with different value: C:\Users\PC\.stmcufinder\plugins\mcufinder/ => C:\Users\PC\.stmcufinder\plugins\mcufinder
+2564-03-24 22:32:13,519 [INFO] CrossReferenceDbSqlite:196 - Set database path to: C:\Users\PC\.stmcufinder\plugins\mcufinder//mcu/cs/
+2564-03-24 22:32:13,520 [WARN] DbFile:35 - Overriding database path with different value: C:\Users\PC\.stmcufinder\plugins\mcufinder/ => C:\Users\PC\.stmcufinder\plugins\mcufinder
+2564-03-24 22:32:13,520 [INFO] DbExamplesSqlite:690 - Set database path to: C:\Users\PC\.stmcufinder\plugins\mcufinder//mcu/
+2564-03-24 22:32:13,544 [INFO] ApplicationProperties:181 - Using Application install path: C:\ST\STM32CubeIDE_1.6.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.2.0.202102191602
+2564-03-24 22:32:13,546 [INFO] PluginManage:178 - Search for loadable plugins [exclusion list=, ]
+2564-03-24 22:32:13,549 [INFO] PluginManage:292 - Check plugin analytics
+2564-03-24 22:32:13,798 [INFO] AnalyticsPlugin:233 - Accepted Software Licenses: STM32CubeMX.6.0.1
+2564-03-24 22:32:13,799 [INFO] AnalyticsPlugin:235 - Accepted CMSIS Pack Licenses: 
+2564-03-24 22:32:13,799 [INFO] AnalyticsPlugin:237 - Accepted Firmware Licenses: 
+2564-03-24 22:32:13,800 [INFO] PluginManage:342 - Loaded plugin analytics (category:tool,tabindex:-1)
+2564-03-24 22:32:13,800 [INFO] PluginManage:292 - Check plugin clock
+2564-03-24 22:32:13,832 [INFO] PluginManage:342 - Loaded plugin clock (category:base,tabindex:2)
+2564-03-24 22:32:13,833 [INFO] PluginManage:292 - Check plugin ddr
+2564-03-24 22:32:13,837 [INFO] PluginManage:342 - Loaded plugin ddr (category:tool,tabindex:6)
+2564-03-24 22:32:13,838 [INFO] PluginManage:292 - Check plugin filemanager
+2564-03-24 22:32:14,016 [INFO] PluginManage:342 - Loaded plugin filemanager (category:base,tabindex:10)
+2564-03-24 22:32:14,016 [INFO] PluginManage:292 - Check plugin ipmanager
+2564-03-24 22:32:14,040 [INFO] PluginManage:342 - Loaded plugin ipmanager (category:base,tabindex:5)
+2564-03-24 22:32:14,041 [INFO] PluginManage:292 - Check plugin pinoutandconfiguration
+2564-03-24 22:32:14,067 [INFO] PluginManage:342 - Loaded plugin pinoutandconfiguration (category:base,tabindex:1)
+2564-03-24 22:32:14,067 [INFO] PluginManage:292 - Check plugin pinoutconfig
+2564-03-24 22:32:14,124 [INFO] PluginManage:342 - Loaded plugin pinoutconfig (category:base,tabindex:0)
+2564-03-24 22:32:14,124 [INFO] PluginManage:292 - Check plugin power
+2564-03-24 22:32:14,152 [INFO] PluginManage:342 - Loaded plugin power (category:power,tabindex:4)
+2564-03-24 22:32:14,152 [INFO] PluginManage:292 - Check plugin projectmanager
+2564-03-24 22:32:14,175 [INFO] PluginManage:342 - Loaded plugin projectmanager (category:projectmanager,tabindex:3)
+2564-03-24 22:32:14,176 [INFO] PluginManage:292 - Check plugin thirdparty
+2564-03-24 22:32:14,477 [INFO] PluginManage:342 - Loaded plugin thirdparty (category:base,tabindex:-1)
+2564-03-24 22:32:14,486 [INFO] PluginManage:292 - Check plugin tools
+2564-03-24 22:32:14,488 [WARN] IntegrityCheckThread:59 - waiting for thirdparty lock release [integrity check]
+2564-03-24 22:32:14,489 [INFO] IntegrityCheckThread:61 - entering critical section [integrity check]
+2564-03-24 22:32:14,490 [INFO] ThirdPartyUpdaterWithRetryManager:56 - Updater plugin not ready yet. [1/15]
+2564-03-24 22:32:14,562 [INFO] PluginManage:342 - Loaded plugin tools (category:base,tabindex:7)
+2564-03-24 22:32:14,562 [INFO] PluginManage:292 - Check plugin tutovideos
+2564-03-24 22:32:14,892 [INFO] PluginManage:342 - Loaded plugin tutovideos (category:base,tabindex:-1)
+2564-03-24 22:32:14,893 [INFO] PluginManage:292 - Check plugin updater
+2564-03-24 22:32:14,911 [INFO] PluginManage:342 - Loaded plugin updater (category:base,tabindex:12)
+2564-03-24 22:32:14,912 [INFO] PluginManage:265 - PluginManage : Loaded plugins [13]
+2564-03-24 22:32:15,292 [INFO] PinOutPanel:1435 - setPackage(No Configuration,No Configuration)
+2564-03-24 22:32:15,513 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:15,513 [INFO] PluginManager:203 - loadIPPluginJar : add adc
+2564-03-24 22:32:15,558 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:15,559 [INFO] PluginManager:203 - loadIPPluginJar : add aes
+2564-03-24 22:32:15,616 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:15,616 [INFO] PluginManager:203 - loadIPPluginJar : add can
+2564-03-24 22:32:15,654 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:15,655 [INFO] PluginManager:203 - loadIPPluginJar : add comp
+2564-03-24 22:32:15,699 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:15,700 [INFO] PluginManager:203 - loadIPPluginJar : add cryp
+2564-03-24 22:32:15,746 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:15,747 [INFO] PluginManager:203 - loadIPPluginJar : add dfsdm
+2564-03-24 22:32:15,766 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:15,767 [INFO] PluginManager:203 - loadIPPluginJar : add dma
+2564-03-24 22:32:15,802 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:15,803 [INFO] PluginManager:203 - loadIPPluginJar : add fatfs
+2564-03-24 22:32:15,874 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:15,874 [INFO] PluginManager:203 - loadIPPluginJar : add fmc
+2564-03-24 22:32:15,893 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:15,894 [INFO] PluginManager:203 - loadIPPluginJar : add freertos
+2564-03-24 22:32:15,930 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:15,930 [INFO] PluginManager:203 - loadIPPluginJar : add genericplugin
+2564-03-24 22:32:16,052 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:16,052 [INFO] PluginManager:203 - loadIPPluginJar : add gfxmmu
+2564-03-24 22:32:16,213 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:16,213 [INFO] PluginManager:203 - loadIPPluginJar : add gic
+2564-03-24 22:32:16,232 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:16,232 [INFO] PluginManager:203 - loadIPPluginJar : add gpio
+2564-03-24 22:32:16,323 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:16,323 [INFO] PluginManager:203 - loadIPPluginJar : add gtzc
+2564-03-24 22:32:16,367 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:16,368 [INFO] PluginManager:203 - loadIPPluginJar : add hash
+2564-03-24 22:32:16,447 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:16,447 [INFO] PluginManager:203 - loadIPPluginJar : add i2c
+2564-03-24 22:32:16,504 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:16,505 [INFO] PluginManager:203 - loadIPPluginJar : add i2s
+2564-03-24 22:32:16,520 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:16,520 [INFO] PluginManager:203 - loadIPPluginJar : add ipddr
+2564-03-24 22:32:16,572 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:16,572 [INFO] PluginManager:203 - loadIPPluginJar : add lorawan
+2564-03-24 22:32:16,623 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:16,624 [INFO] PluginManager:203 - loadIPPluginJar : add ltdc
+2564-03-24 22:32:16,656 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:16,656 [INFO] PluginManager:203 - loadIPPluginJar : add mdma
+2564-03-24 22:32:16,675 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:16,676 [INFO] PluginManager:203 - loadIPPluginJar : add nvic
+2564-03-24 22:32:16,731 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:16,732 [INFO] PluginManager:203 - loadIPPluginJar : add opamp
+2564-03-24 22:32:16,904 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:16,905 [INFO] PluginManager:203 - loadIPPluginJar : add openamp
+2564-03-24 22:32:16,967 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:16,968 [INFO] PluginManager:203 - loadIPPluginJar : add pdm2pcm
+2564-03-24 22:32:16,991 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:16,996 [INFO] PluginManager:203 - loadIPPluginJar : add plateformsettings
+2564-03-24 22:32:17,033 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:17,033 [INFO] PluginManager:203 - loadIPPluginJar : add quadspi
+2564-03-24 22:32:17,051 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:17,051 [INFO] PluginManager:203 - loadIPPluginJar : add resmgrutility
+2564-03-24 22:32:17,118 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:17,119 [INFO] PluginManager:203 - loadIPPluginJar : add sai
+2564-03-24 22:32:17,173 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:17,173 [INFO] PluginManager:203 - loadIPPluginJar : add spi
+2564-03-24 22:32:17,245 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:17,245 [INFO] PluginManager:203 - loadIPPluginJar : add stm32_wpan
+2564-03-24 22:32:17,283 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:17,284 [INFO] PluginManager:203 - loadIPPluginJar : add tim
+2564-03-24 22:32:17,364 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:17,365 [INFO] PluginManager:203 - loadIPPluginJar : add touchsensing
+2564-03-24 22:32:17,403 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:17,403 [INFO] PluginManager:203 - loadIPPluginJar : add tracer_emb
+2564-03-24 22:32:17,446 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:17,446 [INFO] PluginManager:203 - loadIPPluginJar : add ts
+2564-03-24 22:32:17,484 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:17,484 [INFO] PluginManager:203 - loadIPPluginJar : add tsc
+2564-03-24 22:32:17,504 [INFO] ThirdPartyUpdaterWithRetryManager:56 - Updater plugin not ready yet. [2/15]
+2564-03-24 22:32:17,523 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:17,523 [INFO] PluginManager:203 - loadIPPluginJar : add ucpd
+2564-03-24 22:32:17,585 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:17,585 [INFO] PluginManager:203 - loadIPPluginJar : add usart
+2564-03-24 22:32:18,036 [FATAL] Updater:284 - Updater called before beeing initialized
+2564-03-24 22:32:18,252 [FATAL] Updater:284 - Updater called before beeing initialized
+2564-03-24 22:32:18,266 [INFO] DbMcusAds:132 - JSON generation date=Thu Feb 11 21:55:24 ICT 2021 (1613055324029)
+2564-03-24 22:32:18,266 [FATAL] Updater:284 - Updater called before beeing initialized
+2564-03-24 22:32:18,347 [WARN] DetailPanel:315 - Failed to get advertising image, set to default
+2564-03-24 22:32:18,677 [FATAL] Updater:284 - Updater called before beeing initialized
+2564-03-24 22:32:18,681 [FATAL] Updater:284 - Updater called before beeing initialized
+2564-03-24 22:32:18,681 [FATAL] Updater:284 - Updater called before beeing initialized
+2564-03-24 22:32:18,681 [WARN] DetailPanel:315 - Failed to get advertising image, set to default
+2564-03-24 22:32:18,683 [FATAL] Updater:284 - Updater called before beeing initialized
+2564-03-24 22:32:18,772 [FATAL] Updater:284 - Updater called before beeing initialized
+2564-03-24 22:32:18,772 [WARN] ThirdParty:796 - waiting for thirdparty lock release [close project]
+2564-03-24 22:32:20,511 [INFO] ThirdPartyUpdaterWithRetryManager:56 - Updater plugin not ready yet. [3/15]
+2564-03-24 22:32:23,518 [FATAL] Updater:284 - Updater called before beeing initialized
+2564-03-24 22:32:23,518 [ERROR] AbstractThirdPartyUpdaterManager:153 - class java.lang.Integer cannot be cast to class java.util.List (java.lang.Integer and java.util.List are in module java.base of loader 'bootstrap')
+2564-03-24 22:32:23,518 [INFO] ThirdParty:900 - Integrity check success = false
+2564-03-24 22:32:23,520 [INFO] IntegrityCheckThread:75 - exiting critical section [integrity check]
+2564-03-24 22:32:23,520 [INFO] IntegrityCheckThread:78 - End integrity checks thread
+2564-03-24 22:32:23,520 [INFO] ThirdParty:798 - entering critical section [close project]
+2564-03-24 22:32:23,522 [INFO] ThirdParty:809 - exiting critical section [close project]
+2564-03-24 22:32:23,526 [INFO] PinOutPanel:1435 - setPackage(No Configuration,No Configuration)
+2564-03-24 22:32:23,527 [FATAL] Updater:284 - Updater called before beeing initialized
+2564-03-24 22:32:23,549 [INFO] Updater:1002 - Updater Version found : 6.2.0
+2564-03-24 22:32:23,576 [INFO] ApplicationProperties:181 - Using Application install path: C:\ST\STM32CubeIDE_1.6.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.2.0.202102191602
+2564-03-24 22:32:23,796 [INFO] MainUpdater:2661 - connection check result : 10
+2564-03-24 22:32:23,797 [INFO] MainUpdater:255 - Updater Check For Update Now.
+2564-03-24 22:32:23,797 [INFO] MicroXplorer:472 - Change Database Version : DB.6.0.20
+2564-03-24 22:32:23,862 [INFO] CheckServerUpdateThread:102 - End of CheckServer Thread
+2564-03-24 22:32:23,940 [INFO] MainUpdater:2661 - connection check result : 10
+2564-03-24 22:32:23,949 [INFO] MainUpdater:2661 - connection check result : 10
+2564-03-24 22:32:24,240 [INFO] MicroXplorer:442 - Change Database Path : 
+2564-03-24 22:32:24,240 [INFO] MicroXplorer:472 - Change Database Version : DB.6.0.20
+2564-03-24 22:32:24,240 [WARN] ThirdParty:796 - waiting for thirdparty lock release [close project]
+2564-03-24 22:32:24,241 [INFO] ThirdParty:798 - entering critical section [close project]
+2564-03-24 22:32:24,241 [INFO] ThirdParty:809 - exiting critical section [close project]
+2564-03-24 22:32:24,243 [INFO] PinOutPanel:1435 - setPackage(No Configuration,No Configuration)
+2564-03-24 22:32:24,244 [INFO] UtilMem:74 - Begin LoadConfig() Used Memory: 346774752 Bytes (598736896)
+2564-03-24 22:32:24,250 [INFO] MicroXplorer:442 - Change Database Path : C:/Users/PC/.stm32cubemx/databases/DB.6.0.0/db/
+2564-03-24 22:32:24,251 [INFO] MicroXplorer:472 - Change Database Version : DB.6.0.0
+2564-03-24 22:32:29,348 [INFO] OpenFileManager:303 - Change cursor
+2564-03-24 22:32:29,366 [WARN] IntegrityCheckThread:59 - waiting for thirdparty lock release [integrity check]
+2564-03-24 22:32:29,366 [INFO] IntegrityCheckThread:61 - entering critical section [integrity check]
+2564-03-24 22:32:29,402 [INFO] ThirdParty:900 - Integrity check success = true
+2564-03-24 22:32:29,402 [INFO] IntegrityCheckThread:75 - exiting critical section [integrity check]
+2564-03-24 22:32:29,402 [INFO] IntegrityCheckThread:78 - End integrity checks thread
+2564-03-24 22:32:32,723 [INFO] Context:587 - Trying to add GPIOservice into a context  which must be forbidden
+2564-03-24 22:32:33,751 [INFO] RtosManager:470 - Registered RTOS mode: class=CMSIS, group=RTOS, mode=CMSIS_V1, owner=FREERTOS
+2564-03-24 22:32:33,751 [INFO] RtosManager:470 - Registered RTOS mode: class=CMSIS, group=RTOS2, mode=CMSIS_V2, owner=FREERTOS
+2564-03-24 22:32:33,752 [INFO] RtosManager:470 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V1, owner=FREERTOS
+2564-03-24 22:32:33,752 [INFO] RtosManager:470 - Registered RTOS mode: class=RTOS, group=Core, mode=CMSIS_V2, owner=FREERTOS
+2564-03-24 22:32:33,752 [WARN] ModelIntegratedComponent:182 - Missing modes for component STMicroelectronics:FreeRTOS:0.0.1:STMicroelectronics:RTOS:FreeRTOS:Core:::10.2.0:
+2564-03-24 22:32:33,758 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2564-03-24 22:32:33,758 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2564-03-24 22:32:33,758 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2564-03-24 22:32:33,758 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2564-03-24 22:32:33,759 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2564-03-24 22:32:33,759 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2564-03-24 22:32:33,759 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2564-03-24 22:32:33,759 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2564-03-24 22:32:33,760 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2564-03-24 22:32:33,760 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2564-03-24 22:32:33,760 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2564-03-24 22:32:33,760 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2564-03-24 22:32:33,760 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2564-03-24 22:32:33,760 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2564-03-24 22:32:33,760 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2564-03-24 22:32:33,760 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2564-03-24 22:32:33,760 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2564-03-24 22:32:33,761 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2564-03-24 22:32:33,761 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2564-03-24 22:32:33,761 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2564-03-24 22:32:33,761 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2564-03-24 22:32:33,761 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2564-03-24 22:32:33,761 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2564-03-24 22:32:33,761 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2564-03-24 22:32:33,761 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2564-03-24 22:32:33,761 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2564-03-24 22:32:33,762 [WARN] ModelIntegratedComponent:51 - No mode defined for component null
+2564-03-24 22:32:33,779 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (FamilyName)
+2564-03-24 22:32:33,781 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) IP (RCC) : Invalid parameter (TIM2Freq_Value)
+2564-03-24 22:32:33,782 [INFO] ImportTextPane:162 - (OptionalMessage_ERROR) IP (RCC) : Parameter (USBFreq_Value) has invalid value (72000000)
+2564-03-24 22:32:34,418 [INFO] UtilMem:74 - End LoadConfig() Used Memory: 251556352 Bytes (598736896)
+2564-03-24 22:32:34,421 [INFO] DbMcusXml:100 - Load MCU database from C:\ST\STM32CubeIDE_1.6.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.2.0.202102191602\\db\/mcu/families.xml
+2564-03-24 22:32:35,382 [INFO] DbMcusJson:94 - JSON generation date=Mon Feb 08 20:35:07 ICT 2021 (1612791307)
+2564-03-24 22:32:36,307 [INFO] DbMcus:175 - Found 1906 MCUs (1866 are supported by CubeMX, 1866 are visible in CubeMX)
+2564-03-24 22:32:36,308 [INFO] ApiDb:251 - Load user favorites file C:\Users\PC/.stm32cubeide/favorites.mcus.txt: 0 item(s)
+2564-03-24 22:32:36,308 [INFO] ApiDb:255 - User favorites MCUs=[]
+2564-03-24 22:32:36,309 [INFO] DbMcus:187 - Set 0 / 0 favorites MCUs
+2564-03-24 22:32:36,319 [WARN] ThirdParty:762 - waiting for thirdparty lock release [change project]
+2564-03-24 22:32:36,320 [INFO] ThirdParty:764 - entering critical section [change project]
+2564-03-24 22:32:36,320 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 2.0.0
+2564-03-24 22:32:36,320 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics FreeRTOS 0.0.1
+2564-03-24 22:32:36,320 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 1.0.0
+2564-03-24 22:32:36,320 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 3.0.0
+2564-03-24 22:32:36,320 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics HAL Drivers 0.0.0
+2564-03-24 22:32:36,320 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.16.2
+2564-03-24 22:32:36,321 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.0.3
+2564-03-24 22:32:36,321 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics lwIP 2.1.2
+2564-03-24 22:32:36,321 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics MBEDTLS 2.14.1
+2564-03-24 22:32:36,321 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics USB_HOST 1.0.0
+2564-03-24 22:32:36,321 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.1.0
+2564-03-24 22:32:36,321 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.2.0
+2564-03-24 22:32:36,321 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics USB_DEVICE 2.0.0
+2564-03-24 22:32:36,321 [INFO] ThirdParty:952 - CMSIS Pack Vendor :STMicroelectronics PDM2PCM 3.3.0
+2564-03-24 22:32:36,321 [INFO] ThirdParty:770 - exiting critical section [change project]
+2564-03-24 22:32:37,037 [INFO] PinOutPanel:1435 - setPackage(No Configuration,No Configuration)
+2564-03-24 22:32:37,040 [INFO] PinOutPanel:1435 - setPackage(STM32F303VCTx,LQFP100)
+2564-03-24 22:32:38,059 [INFO] UtilMem:74 - Before build in PCC Used Memory: 417335296 Bytes (598736896)
+2564-03-24 22:32:38,710 [INFO] SharedServices:72 - Folder for power plug-in: C:/Users/PC/.stm32cubemx/plugins/power
+2564-03-24 22:32:38,801 [INFO] SharedServices:72 - Folder for power plug-in: C:/Users/PC/.stm32cubemx/plugins/power
+2564-03-24 22:32:38,863 [INFO] SharedServices:72 - Folder for power plug-in: C:/Users/PC/.stm32cubemx/plugins/power
+2564-03-24 22:32:38,870 [INFO] SharedServices:72 - Folder for power plug-in: C:/Users/PC/.stm32cubemx/plugins/power
+2564-03-24 22:32:39,091 [INFO] UtilMem:74 - After build in PCC Used Memory: 368995496 Bytes (598736896)
+2564-03-24 22:32:39,125 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:39,125 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:39,125 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:39,125 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:39,126 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:39,126 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:39,126 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:39,126 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:39,126 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:39,126 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:39,126 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:39,127 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:39,127 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:39,127 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:39,128 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:39,128 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:39,128 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:39,128 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:39,130 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:39,130 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:39,130 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:39,131 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:39,131 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:39,131 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:39,131 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:39,132 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:39,132 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:39,133 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:39,133 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:39,135 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:39,135 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:39,136 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:39,136 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:39,137 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:39,138 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:39,139 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:39,139 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:39,140 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:39,140 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:39,141 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:39,142 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:39,142 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:39,143 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:39,144 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:39,144 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:39,145 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:39,146 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:39,147 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:39,148 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:39,149 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:39,150 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:39,151 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:39,151 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:39,152 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:39,153 [INFO] IPUIPlugin:64 - create IPUIPlugin
+2564-03-24 22:32:39,190 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] toolchainItems.length=====1
+2564-03-24 22:32:39,331 [INFO] OpenFileManager:323 - Restore cursor
+2564-03-24 22:32:39,365 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 399404176 Bytes (598736896)
+2564-03-24 22:32:54,798 [INFO] ApiDbMcu:458 - Load IP Config File for FREERTOS
+2564-03-24 22:32:54,833 [INFO] RtosManager:784 - Current active RTOS is FREERTOS [Cortex-M4NS]
+2564-03-24 22:32:54,934 [WARN] FreeRTOS:529 - Case being investigated as it may cause exception (when called to early by set config state
+2564-03-24 22:32:55,250 [ERROR] RtosPanel:542 - Can not restore the selected Tab for FREERTOS(A reason can be that the tab is no more available.)
+2564-03-24 22:32:55,378 [ERROR] RtosPanel:542 - Can not restore the selected Tab for FREERTOS(A reason can be that the tab is no more available.)
+2564-03-24 22:33:34,189 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 332301952 Bytes (598736896)
+2564-03-24 22:33:35,286 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 349079168 Bytes (598736896)
+2564-03-24 22:33:38,344 [INFO] UtilMem:74 - End SaveConfig() Used Memory: 393645696 Bytes (598736896)
+2564-03-24 22:33:38,869 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: FREERTOS
+2564-03-24 22:33:38,869 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: TIM1_8F3
+2564-03-24 22:33:38,869 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: SYS
+2564-03-24 22:33:38,869 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: RCC
+2564-03-24 22:33:38,869 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: NVIC
+2564-03-24 22:33:38,870 [INFO] BlockDiagram:2735 - set Specific Code input for plugin: GPIO
+2564-03-24 22:33:38,871 [INFO] CodeGenerator:641 - code generatio: config db path: C:/Users/PC/.stm32cubemx/databases/DB.6.0.0/db/
+2564-03-24 22:33:39,594 [INFO] CodeEngine:229 - oldGeneratedFile, G:\103C8\E62_LAB_03_LCD_Driver_EP2\STM32CubeIDE\E62_LAB_03_LCD_Driver\MXTmpFiles\license.tmp_save
+2564-03-24 22:33:40,012 [INFO] CodeEngine:247 - Generated code: G:\103C8\E62_LAB_03_LCD_Driver_EP2\STM32CubeIDE\E62_LAB_03_LCD_Driver\MXTmpFiles\license.tmp
+2564-03-24 22:33:40,236 [INFO] CodeEngine:229 - oldGeneratedFile, G:\103C8\E62_LAB_03_LCD_Driver_EP2\STM32CubeIDE\E62_LAB_03_LCD_Driver\MXTmpFiles\gpio.tmp_save
+2564-03-24 22:33:40,362 [INFO] CodeEngine:247 - Generated code: G:\103C8\E62_LAB_03_LCD_Driver_EP2\STM32CubeIDE\E62_LAB_03_LCD_Driver\MXTmpFiles\gpio.tmp
+2564-03-24 22:33:40,897 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2564-03-24 22:33:40,917 [INFO] Middleware:1263 - No code input for Bsp Dependency
+2564-03-24 22:33:40,954 [INFO] CodeEngine:229 - oldGeneratedFile, G:\103C8\E62_LAB_03_LCD_Driver_EP2\STM32CubeIDE\E62_LAB_03_LCD_Driver\MXTmpFiles\rtos_inc.tmp_save
+2564-03-24 22:33:41,036 [INFO] CodeEngine:247 - Generated code: G:\103C8\E62_LAB_03_LCD_Driver_EP2\STM32CubeIDE\E62_LAB_03_LCD_Driver\MXTmpFiles\rtos_inc.tmp
+2564-03-24 22:33:41,048 [INFO] CodeEngine:229 - oldGeneratedFile, G:\103C8\E62_LAB_03_LCD_Driver_EP2\STM32CubeIDE\E62_LAB_03_LCD_Driver\MXTmpFiles\rtos_kernelInit.tmp_save
+2564-03-24 22:33:41,131 [INFO] CodeEngine:247 - Generated code: G:\103C8\E62_LAB_03_LCD_Driver_EP2\STM32CubeIDE\E62_LAB_03_LCD_Driver\MXTmpFiles\rtos_kernelInit.tmp
+2564-03-24 22:33:41,143 [INFO] CodeEngine:229 - oldGeneratedFile, G:\103C8\E62_LAB_03_LCD_Driver_EP2\STM32CubeIDE\E62_LAB_03_LCD_Driver\MXTmpFiles\rtos_kernelStart.tmp_save
+2564-03-24 22:33:41,221 [INFO] CodeEngine:247 - Generated code: G:\103C8\E62_LAB_03_LCD_Driver_EP2\STM32CubeIDE\E62_LAB_03_LCD_Driver\MXTmpFiles\rtos_kernelStart.tmp
+2564-03-24 22:33:41,234 [INFO] CodeEngine:229 - oldGeneratedFile, G:\103C8\E62_LAB_03_LCD_Driver_EP2\STM32CubeIDE\E62_LAB_03_LCD_Driver\MXTmpFiles\rtos_typedefs.tmp_save
+2564-03-24 22:33:41,303 [INFO] CodeEngine:247 - Generated code: G:\103C8\E62_LAB_03_LCD_Driver_EP2\STM32CubeIDE\E62_LAB_03_LCD_Driver\MXTmpFiles\rtos_typedefs.tmp
+2564-03-24 22:33:41,323 [INFO] CodeEngine:229 - oldGeneratedFile, G:\103C8\E62_LAB_03_LCD_Driver_EP2\STM32CubeIDE\E62_LAB_03_LCD_Driver\MXTmpFiles\rtos_vars.tmp_save
+2564-03-24 22:33:41,452 [INFO] CodeEngine:247 - Generated code: G:\103C8\E62_LAB_03_LCD_Driver_EP2\STM32CubeIDE\E62_LAB_03_LCD_Driver\MXTmpFiles\rtos_vars.tmp
+2564-03-24 22:33:41,465 [INFO] CodeEngine:229 - oldGeneratedFile, G:\103C8\E62_LAB_03_LCD_Driver_EP2\STM32CubeIDE\E62_LAB_03_LCD_Driver\MXTmpFiles\rtos_pfp.tmp_save
+2564-03-24 22:33:41,551 [INFO] CodeEngine:247 - Generated code: G:\103C8\E62_LAB_03_LCD_Driver_EP2\STM32CubeIDE\E62_LAB_03_LCD_Driver\MXTmpFiles\rtos_pfp.tmp
+2564-03-24 22:33:41,571 [INFO] CodeEngine:229 - oldGeneratedFile, G:\103C8\E62_LAB_03_LCD_Driver_EP2\STM32CubeIDE\E62_LAB_03_LCD_Driver\MXTmpFiles\rtos_obj_creat.tmp_save
+2564-03-24 22:33:41,660 [INFO] CodeEngine:247 - Generated code: G:\103C8\E62_LAB_03_LCD_Driver_EP2\STM32CubeIDE\E62_LAB_03_LCD_Driver\MXTmpFiles\rtos_obj_creat.tmp
+2564-03-24 22:33:41,675 [INFO] CodeEngine:229 - oldGeneratedFile, G:\103C8\E62_LAB_03_LCD_Driver_EP2\STM32CubeIDE\E62_LAB_03_LCD_Driver\MXTmpFiles\rtos_default_thread.tmp_save
+2564-03-24 22:33:41,779 [INFO] CodeEngine:247 - Generated code: G:\103C8\E62_LAB_03_LCD_Driver_EP2\STM32CubeIDE\E62_LAB_03_LCD_Driver\MXTmpFiles\rtos_default_thread.tmp
+2564-03-24 22:33:41,793 [INFO] CodeEngine:229 - oldGeneratedFile, G:\103C8\E62_LAB_03_LCD_Driver_EP2\STM32CubeIDE\E62_LAB_03_LCD_Driver\MXTmpFiles\rtos_threads.tmp_save
+2564-03-24 22:33:41,861 [INFO] CodeEngine:247 - Generated code: G:\103C8\E62_LAB_03_LCD_Driver_EP2\STM32CubeIDE\E62_LAB_03_LCD_Driver\MXTmpFiles\rtos_threads.tmp
+2564-03-24 22:33:41,881 [INFO] CodeEngine:229 - oldGeneratedFile, G:\103C8\E62_LAB_03_LCD_Driver_EP2\STM32CubeIDE\E62_LAB_03_LCD_Driver\Core\Inc\FreeRTOSConfig.h_save
+2564-03-24 22:33:42,006 [INFO] CodeEngine:247 - Generated code: G:\103C8\E62_LAB_03_LCD_Driver_EP2\STM32CubeIDE\E62_LAB_03_LCD_Driver\Core\Inc\FreeRTOSConfig.h
+2564-03-24 22:33:42,025 [INFO] CodeEngine:229 - oldGeneratedFile, G:\103C8\E62_LAB_03_LCD_Driver_EP2\STM32CubeIDE\E62_LAB_03_LCD_Driver\Core\Src\freertos.c_save
+2564-03-24 22:33:42,133 [INFO] CodeEngine:247 - Generated code: G:\103C8\E62_LAB_03_LCD_Driver_EP2\STM32CubeIDE\E62_LAB_03_LCD_Driver\Core\Src\freertos.c
+2564-03-24 22:33:42,134 [INFO] LogOutputStream:76 - [STDOUT_REDIRECT] Command line
+2564-03-24 22:33:42,193 [INFO] CodeEngine:229 - oldGeneratedFile, G:\103C8\E62_LAB_03_LCD_Driver_EP2\STM32CubeIDE\E62_LAB_03_LCD_Driver\Core\Src\stm32f3xx_it.c_save
+2564-03-24 22:33:42,355 [INFO] CodeEngine:247 - Generated code: G:\103C8\E62_LAB_03_LCD_Driver_EP2\STM32CubeIDE\E62_LAB_03_LCD_Driver\Core\Src\stm32f3xx_it.c
+2564-03-24 22:33:42,370 [INFO] CodeEngine:229 - oldGeneratedFile, G:\103C8\E62_LAB_03_LCD_Driver_EP2\STM32CubeIDE\E62_LAB_03_LCD_Driver\Core\Inc\stm32f3xx_it.h_save
+2564-03-24 22:33:42,475 [INFO] CodeEngine:247 - Generated code: G:\103C8\E62_LAB_03_LCD_Driver_EP2\STM32CubeIDE\E62_LAB_03_LCD_Driver\Core\Inc\stm32f3xx_it.h
+2564-03-24 22:33:42,534 [INFO] CodeEngine:229 - oldGeneratedFile, G:\103C8\E62_LAB_03_LCD_Driver_EP2\STM32CubeIDE\E62_LAB_03_LCD_Driver\Core\Src\stm32f3xx_hal_msp.c_save
+2564-03-24 22:33:42,682 [INFO] CodeEngine:247 - Generated code: G:\103C8\E62_LAB_03_LCD_Driver_EP2\STM32CubeIDE\E62_LAB_03_LCD_Driver\Core\Src\stm32f3xx_hal_msp.c
+2564-03-24 22:33:42,695 [INFO] CodeEngine:229 - oldGeneratedFile, G:\103C8\E62_LAB_03_LCD_Driver_EP2\STM32CubeIDE\E62_LAB_03_LCD_Driver\MXTmpFiles\system.tmp_save
+2564-03-24 22:33:42,767 [INFO] CodeEngine:247 - Generated code: G:\103C8\E62_LAB_03_LCD_Driver_EP2\STM32CubeIDE\E62_LAB_03_LCD_Driver\MXTmpFiles\system.tmp
+2564-03-24 22:33:42,781 [INFO] CodeEngine:229 - oldGeneratedFile, G:\103C8\E62_LAB_03_LCD_Driver_EP2\STM32CubeIDE\E62_LAB_03_LCD_Driver\Core\Src\stm32f3xx_hal_timebase_tim.c_save
+2564-03-24 22:33:42,919 [INFO] CodeEngine:247 - Generated code: G:\103C8\E62_LAB_03_LCD_Driver_EP2\STM32CubeIDE\E62_LAB_03_LCD_Driver\Core\Src\stm32f3xx_hal_timebase_tim.c
+2564-03-24 22:33:42,973 [INFO] CodeEngine:229 - oldGeneratedFile, G:\103C8\E62_LAB_03_LCD_Driver_EP2\STM32CubeIDE\E62_LAB_03_LCD_Driver\Core\Inc\stm32f3xx_hal_conf.h_save
+2564-03-24 22:33:43,119 [INFO] CodeEngine:247 - Generated code: G:\103C8\E62_LAB_03_LCD_Driver_EP2\STM32CubeIDE\E62_LAB_03_LCD_Driver\Core\Inc\stm32f3xx_hal_conf.h
+2564-03-24 22:33:43,173 [WARN] IPConfigManager:2976 - IP not found : TIM
+2564-03-24 22:33:43,175 [WARN] CodeGenerator:3191 - IP not found : null
+2564-03-24 22:33:43,227 [INFO] CodeEngine:229 - oldGeneratedFile, G:\103C8\E62_LAB_03_LCD_Driver_EP2\STM32CubeIDE\E62_LAB_03_LCD_Driver\Core\Inc\main.h_save
+2564-03-24 22:33:43,342 [INFO] CodeEngine:247 - Generated code: G:\103C8\E62_LAB_03_LCD_Driver_EP2\STM32CubeIDE\E62_LAB_03_LCD_Driver\Core\Inc\main.h
+2564-03-24 22:33:43,373 [INFO] CodeEngine:229 - oldGeneratedFile, G:\103C8\E62_LAB_03_LCD_Driver_EP2\STM32CubeIDE\E62_LAB_03_LCD_Driver\Core\Src\main.c_save
+2564-03-24 22:33:43,562 [INFO] CodeEngine:247 - Generated code: G:\103C8\E62_LAB_03_LCD_Driver_EP2\STM32CubeIDE\E62_LAB_03_LCD_Driver\Core\Src\main.c
+2564-03-24 22:33:45,425 [INFO] ProjectBuilder:2460 - Time for Copy HAL[1] : 981mS.
+2564-03-24 22:33:45,433 [INFO] ProjectBuilder:3418 - Project Generator version: 3.13.0-B3
+2564-03-24 22:33:46,305 [INFO] ConfigFileManager:1242 - The Die is : DIE422
+2564-03-24 22:33:46,324 [INFO] ApiDbMcu:458 - Load IP Config File for FATFS
+2564-03-24 22:33:46,543 [INFO] ApiDbMcu:458 - Load IP Config File for TOUCHSENSING
+2564-03-24 22:33:46,580 [INFO] ApiDbMcu:458 - Load IP Config File for USB_DEVICE
+2564-03-24 22:33:51,215 [INFO] ProjectBuilder:3584 - Time for Generating toolchain IDE Files: 5782mS.
+2564-03-24 22:33:51,216 [INFO] ProjectBuilder:2339 - Time for Copy CMSIS : 0mS.
+2564-03-24 22:33:51,221 [INFO] ProjectBuilder:2339 - Time for Copy CMSIS : 1mS.
+2564-03-25 22:36:25,030 [INFO] Activator:170 - 
+
+
+2564-03-25 22:36:25,045 [INFO] Activator:171 - !SESSION log4j initialized
+2564-03-26 23:13:45,297 [INFO] Activator:170 - 
+
+
+2564-03-26 23:13:45,301 [INFO] Activator:171 - !SESSION log4j initialized
+2564-03-26 23:14:19,657 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2564-03-26 23:14:19,660 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2564-03-26 23:14:19,911 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2564-03-26 23:14:19,912 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2564-03-26 23:14:21,468 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2564-03-26 23:14:21,468 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2564-03-26 23:14:21,943 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2564-03-26 23:14:21,944 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2564-03-26 23:14:22,322 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2564-03-26 23:14:22,322 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2564-03-26 23:14:22,841 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2564-03-26 23:14:22,842 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2564-03-26 23:14:23,323 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2564-03-26 23:14:23,323 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2564-03-26 23:14:23,753 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2564-03-26 23:14:23,754 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2564-03-26 23:14:24,159 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2564-03-26 23:14:24,160 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2564-03-26 23:14:24,564 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2564-03-26 23:14:24,564 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2564-03-26 23:14:25,000 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2564-03-26 23:14:25,000 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2564-03-26 23:14:25,413 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2564-03-26 23:14:25,413 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2564-03-26 23:14:25,806 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2564-03-26 23:14:25,807 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2564-03-26 23:14:26,200 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2564-03-26 23:14:26,200 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2564-03-26 23:14:26,584 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {s}->https://sw-center.st.com:443: The target server failed to respond
+2564-03-26 23:14:26,585 [INFO] RetryExec:113 - Retrying request to {s}->https://sw-center.st.com:443
+2564-03-26 23:14:37,369 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://sw-center.st.com:80: The target server failed to respond
+2564-03-26 23:14:37,369 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2564-03-26 23:14:37,627 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://sw-center.st.com:80: The target server failed to respond
+2564-03-26 23:14:37,628 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2564-03-26 23:14:38,332 [INFO] RetryExec:97 - I/O exception (org.apache.http.NoHttpResponseException) caught when processing request to {}->http://sw-center.st.com:80: The target server failed to respond
+2564-03-26 23:14:38,332 [INFO] RetryExec:113 - Retrying request to {}->http://sw-center.st.com:80
+2564-03-28 22:52:31,910 [INFO] Activator:170 - 
+
+
+2564-03-28 22:52:31,929 [INFO] Activator:171 - !SESSION log4j initialized

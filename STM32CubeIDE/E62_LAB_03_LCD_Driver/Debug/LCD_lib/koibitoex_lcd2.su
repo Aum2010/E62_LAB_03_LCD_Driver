@@ -1,0 +1,10 @@
+koibitoex_lcd2.c:22:6:LcdInit	8	static
+koibitoex_lcd2.c:62:6:LcdCls	24	static
+koibitoex_lcd2.c:96:6:LcdSetCursor	16	static
+koibitoex_lcd2.c:103:6:LcdSetBackLight	16	static
+koibitoex_lcd2.c:108:6:LcdSetPosition	24	static
+koibitoex_lcd2.c:126:6:LcdPutCh	16	static
+koibitoex_lcd2.c:132:6:LcdPutS	24	static
+koibitoex_lcd2.c:142:13:LcdWriteNibble	40	static
+koibitoex_lcd2.c:161:13:LcdWriteCmd	16	static
+koibitoex_lcd2.c:170:13:LcdWriteData	16	static

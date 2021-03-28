@@ -1,0 +1,10 @@
+main.c:85:5:main	56	static
+main.c:170:6:SystemClock_Config	72	static
+main.c:209:13:MX_TIM4_Init	40	static
+main.c:254:13:MX_GPIO_Init	48	static
+main.c:297:6:delay_us	16	static
+main.c:303:6:TaskUpline	32	static
+main.c:326:6:TaskDownline	32	static
+main.c:358:6:StartDefaultTask	16	static
+main.c:377:6:HAL_TIM_PeriodElapsedCallback	16	static
+main.c:394:6:Error_Handler	4	static

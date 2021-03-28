@@ -1,0 +1,21 @@
+00:36:03 **** Incremental Build of configuration Debug for project E62_LAB_03_LCD_Driver ****
+make -j4 all 
+arm-none-eabi-size   E62_LAB_03_LCD_Driver.elf 
+   text	   data	    bss	    dec	    hex	filename
+  13016	    120	   1672	  14808	   39d8	E62_LAB_03_LCD_Driver.elf
+Finished building: default.size.stdout
+ 
+00:36:13 **** Incremental Build of configuration Debug for project E62_LAB_03_LCD_Driver ****
+make -j4 all 
+arm-none-eabi-size   E62_LAB_03_LCD_Driver.elf 
+   text	   data	    bss	    dec	    hex	filename
+  13016	    120	   1672	  14808	   39d8	E62_LAB_03_LCD_Driver.elf
+Finished building: default.size.stdout
+ 
+00:36:44 **** Incremental Build of configuration Debug for project E62_LAB_03_LCD_Driver ****
+make -j4 all 
+arm-none-eabi-size   E62_LAB_03_LCD_Driver.elf 
+   text	   data	    bss	    dec	    hex	filename
+  13016	    120	   1672	  14808	   39d8	E62_LAB_03_LCD_Driver.elf
+Finished building: default.size.stdout
+ 

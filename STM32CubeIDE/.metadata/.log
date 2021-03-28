@@ -1,0 +1,81 @@
+!SESSION 2564-03-22 22:17:14.428 -----------------------------------------------
+eclipse.buildId=Version 1.6.0
+java.version=11.0.9.1
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2564-03-22 22:18:06.168
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2564-03-22 22:18:06.258
+!MESSAGE Log4j initialized with config file G:\103C8\E62_LAB_03_LCD_Driver\STM32CubeIDE\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2564-03-22 22:18:11.211
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 4 4 2564-03-22 22:18:12.311
+!MESSAGE com.st.stm32cube.ide.mcu.ide/META-INF/version/build_ref file not found, build reference will not be reported into properties
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-03-22 22:20:29.016
+!MESSAGE Indexed 'E62_LAB_03_LCD_Driver' (21 sources, 84 headers) in 5.25 sec: 6,094 declarations; 42,784 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0041%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-03-23 00:01:25.569
+!MESSAGE Indexed 'E62_LAB_03_LCD_Driver' (21 sources, 85 headers) in 3.07 sec: 6,111 declarations; 42,816 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0041%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2021-03-23 00:02:41.723
+!MESSAGE Indexed 'E62_LAB_03_LCD_Driver' (22 sources, 85 headers) in 2.38 sec: 6,142 declarations; 43,027 references; 0 unresolved inclusions; 1 syntax errors; 2 unresolved names (0.0041%)
+
+!ENTRY com.st.stm32cube.ide.mcu.debug 4 0 2021-03-23 00:23:58.924
+!MESSAGE Error - No active DSF-Session. tmpSessionId = 78 (contextManager row 121)
+
+!ENTRY com.st.stm32cube.ide.mcu.debug 4 0 2021-03-23 00:23:58.930
+!MESSAGE Existing sessions are:
+
+!ENTRY com.st.stm32cube.ide.mcu.debug 4 0 2021-03-23 00:23:58.937
+!MESSAGE Error - No active DSF-Session. tmpSessionId = 78 (contextManager row 121)
+
+!ENTRY com.st.stm32cube.ide.mcu.debug 4 0 2021-03-23 00:23:58.944
+!MESSAGE Existing sessions are:
+
+!ENTRY com.st.stm32cube.ide.mcu.debug 4 0 2021-03-23 00:24:50.627
+!MESSAGE Error - No active DSF-Session. tmpSessionId = 79 (contextManager row 121)
+
+!ENTRY com.st.stm32cube.ide.mcu.debug 4 0 2021-03-23 00:24:50.634
+!MESSAGE Existing sessions are:
+
+!ENTRY com.st.stm32cube.ide.mcu.debug 4 0 2021-03-23 00:24:50.641
+!MESSAGE Error - No active DSF-Session. tmpSessionId = 79 (contextManager row 121)
+
+!ENTRY com.st.stm32cube.ide.mcu.debug 4 0 2021-03-23 00:24:50.648
+!MESSAGE Existing sessions are:
+
+!ENTRY com.st.stm32cube.ide.mcu.debug 4 0 2021-03-23 00:25:05.958
+!MESSAGE Error - No active DSF-Session. tmpSessionId = 80 (contextManager row 121)
+
+!ENTRY com.st.stm32cube.ide.mcu.debug 4 0 2021-03-23 00:25:05.967
+!MESSAGE Existing sessions are:
+
+!ENTRY com.st.stm32cube.ide.mcu.debug 4 0 2021-03-23 00:25:05.974
+!MESSAGE Error - No active DSF-Session. tmpSessionId = 80 (contextManager row 121)
+
+!ENTRY com.st.stm32cube.ide.mcu.debug 4 0 2021-03-23 00:25:05.981
+!MESSAGE Existing sessions are:
+!SESSION 2564-03-23 00:35:43.956 -----------------------------------------------
+eclipse.buildId=Version 1.6.0
+java.version=11.0.9.1
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2564-03-23 00:35:54.363
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2564-03-23 00:35:54.490
+!MESSAGE Log4j initialized with config file G:\103C8\E62_LAB_03_LCD_Driver\STM32CubeIDE\.metadata\.log4j.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2564-03-23 00:36:01.900
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 4 4 2564-03-23 00:36:02.523
+!MESSAGE com.st.stm32cube.ide.mcu.ide/META-INF/version/build_ref file not found, build reference will not be reported into properties

@@ -1,0 +1,109 @@
+23:18:15 **** Incremental Build of configuration Debug for project E62_LAB_03_LCD_Driver ****
+make -j4 all 
+arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F303xC -c -I../Core/Inc -I../Drivers/STM32F3xx_HAL_Driver/Inc -I../Drivers/STM32F3xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F3xx/Include -I../Drivers/CMSIS/Include -I"G:/103C8/E62_LAB_03_LCD_Driver_EP2/LCD_lib" -I../Middlewares/Third_Party/FreeRTOS/Source/include -I../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2 -I../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Core/Src/main.o"
+../Core/Src/main.c: In function 'main':
+../Core/Src/main.c:143:3: warning: implicit declaration of function 'xTaskCreate' [-Wimplicit-function-declaration]
+  143 |   xTaskCreate((TaskFunction_t *)TaskUpline,"TaskUpline", 128, NULL , osPriorityLow1, NULL);
+      |   ^~~~~~~~~~~
+../Core/Src/main.c:152:3: warning: implicit declaration of function 'vTaskStartScheduler'; did you mean 'xPortStartScheduler'? [-Wimplicit-function-declaration]
+  152 |   vTaskStartScheduler();
+      |   ^~~~~~~~~~~~~~~~~~~
+      |   xPortStartScheduler
+../Core/Src/main.c:131:12: warning: unused variable 'round' [-Wunused-variable]
+  131 |   uint16_t round = 1;
+      |            ^~~~~
+../Core/Src/main.c:130:11: warning: unused variable 'Str2' [-Wunused-variable]
+  130 |   uint8_t Str2[20];
+      |           ^~~~
+../Core/Src/main.c:129:11: warning: unused variable 'Str1' [-Wunused-variable]
+  129 |   uint8_t Str1[] = "Mahanakorn";
+      |           ^~~~
+../Core/Src/main.c: In function 'TaskUpline':
+../Core/Src/main.c:310:11: warning: pointer targets in passing argument 1 of 'LcdPutS' differ in signedness [-Wpointer-sign]
+  310 |   LcdPutS((uint8_t *)"Hello LINE 1 ");
+      |           ^~~~~~~~~~~~~~~~~~~~~~~~~~
+      |           |
+      |           uint8_t * {aka unsigned char *}
+In file included from ../Core/Src/main.c:23:
+G:/103C8/E62_LAB_03_LCD_Driver_EP2/LCD_lib/koibitoex_lcd2.h:27:20: note: expected 'char *' but argument is of type 'uint8_t *' {aka 'unsigned char *'}
+   27 | void LcdPutS(char *s);
+      |              ~~~~~~^
+../Core/Src/main.c:312:3: warning: implicit declaration of function 'sprintf' [-Wimplicit-function-declaration]
+  312 |   sprintf(msg,"%d",count++);
+      |   ^~~~~~~
+../Core/Src/main.c:312:3: warning: incompatible implicit declaration of built-in function 'sprintf'
+../Core/Src/main.c:26:1: note: include '<stdio.h>' or provide a declaration of 'sprintf'
+   25 | #include "semphr.h"
+  +++ |+#include <stdio.h>
+   26 | #include <FreeRTOS.h>
+../Core/Src/main.c:313:11: warning: pointer targets in passing argument 1 of 'LcdPutS' differ in signedness [-Wpointer-sign]
+  313 |   LcdPutS((uint8_t *)msg);
+      |           ^~~~~~~~~~~~~~
+      |           |
+      |           uint8_t * {aka unsigned char *}
+In file included from ../Core/Src/main.c:23:
+G:/103C8/E62_LAB_03_LCD_Driver_EP2/LCD_lib/koibitoex_lcd2.h:27:20: note: expected 'char *' but argument is of type 'uint8_t *' {aka 'unsigned char *'}
+   27 | void LcdPutS(char *s);
+      |              ~~~~~~^
+../Core/Src/main.c:317:12: warning: pointer targets in passing argument 1 of 'LcdPutS' differ in signedness [-Wpointer-sign]
+  317 |    LcdPutS((uint8_t *)"   ");
+      |            ^~~~~~~~~~~~~~~~
+      |            |
+      |            uint8_t * {aka unsigned char *}
+In file included from ../Core/Src/main.c:23:
+G:/103C8/E62_LAB_03_LCD_Driver_EP2/LCD_lib/koibitoex_lcd2.h:27:20: note: expected 'char *' but argument is of type 'uint8_t *' {aka 'unsigned char *'}
+   27 | void LcdPutS(char *s);
+      |              ~~~~~~^
+../Core/Src/main.c:322:3: warning: implicit declaration of function 'vTaskDelay'; did you mean 'osDelay'? [-Wimplicit-function-declaration]
+  322 |   vTaskDelay(1);
+      |   ^~~~~~~~~~
+      |   osDelay
+../Core/Src/main.c: In function 'TaskDownline':
+../Core/Src/main.c:332:11: warning: pointer targets in passing argument 1 of 'LcdPutS' differ in signedness [-Wpointer-sign]
+  332 |   LcdPutS((uint8_t *)"Hello LINE 2 ");
+      |           ^~~~~~~~~~~~~~~~~~~~~~~~~~
+      |           |
+      |           uint8_t * {aka unsigned char *}
+In file included from ../Core/Src/main.c:23:
+G:/103C8/E62_LAB_03_LCD_Driver_EP2/LCD_lib/koibitoex_lcd2.h:27:20: note: expected 'char *' but argument is of type 'uint8_t *' {aka 'unsigned char *'}
+   27 | void LcdPutS(char *s);
+      |              ~~~~~~^
+../Core/Src/main.c:334:3: warning: incompatible implicit declaration of built-in function 'sprintf'
+  334 |   sprintf(msg,"%d",count++);
+      |   ^~~~~~~
+../Core/Src/main.c:334:3: note: include '<stdio.h>' or provide a declaration of 'sprintf'
+../Core/Src/main.c:335:11: warning: pointer targets in passing argument 1 of 'LcdPutS' differ in signedness [-Wpointer-sign]
+  335 |   LcdPutS((uint8_t *)msg);
+      |           ^~~~~~~~~~~~~~
+      |           |
+      |           uint8_t * {aka unsigned char *}
+In file included from ../Core/Src/main.c:23:
+G:/103C8/E62_LAB_03_LCD_Driver_EP2/LCD_lib/koibitoex_lcd2.h:27:20: note: expected 'char *' but argument is of type 'uint8_t *' {aka 'unsigned char *'}
+   27 | void LcdPutS(char *s);
+      |              ~~~~~~^
+../Core/Src/main.c:339:12: warning: pointer targets in passing argument 1 of 'LcdPutS' differ in signedness [-Wpointer-sign]
+  339 |    LcdPutS((uint8_t *)"   ");
+      |            ^~~~~~~~~~~~~~~~
+      |            |
+      |            uint8_t * {aka unsigned char *}
+In file included from ../Core/Src/main.c:23:
+G:/103C8/E62_LAB_03_LCD_Driver_EP2/LCD_lib/koibitoex_lcd2.h:27:20: note: expected 'char *' but argument is of type 'uint8_t *' {aka 'unsigned char *'}
+   27 | void LcdPutS(char *s);
+      |              ~~~~~~^
+arm-none-eabi-gcc -o "E62_LAB_03_LCD_Driver.elf" @"objects.list"   -mcpu=cortex-m4 -T"G:\103C8\E62_LAB_03_LCD_Driver_EP2\STM32CubeIDE\E62_LAB_03_LCD_Driver\STM32F303VCTX_FLASH.ld" --specs=nosys.specs -Wl,-Map="E62_LAB_03_LCD_Driver.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: E62_LAB_03_LCD_Driver.elf
+ 
+arm-none-eabi-objdump -h -S  E62_LAB_03_LCD_Driver.elf  > "E62_LAB_03_LCD_Driver.list"
+arm-none-eabi-objcopy  -O binary  E62_LAB_03_LCD_Driver.elf  "E62_LAB_03_LCD_Driver.bin"
+arm-none-eabi-size   E62_LAB_03_LCD_Driver.elf 
+   text	   data	    bss	    dec	    hex	filename
+  26304	    124	   8228	  34656	   8760	E62_LAB_03_LCD_Driver.elf
+Finished building: default.size.stdout
+ 
+Finished building: E62_LAB_03_LCD_Driver.bin
+ 
+Finished building: E62_LAB_03_LCD_Driver.list
+ 
+
+23:18:16 Build Finished. 0 errors, 15 warnings. (took 1s.621ms)
+

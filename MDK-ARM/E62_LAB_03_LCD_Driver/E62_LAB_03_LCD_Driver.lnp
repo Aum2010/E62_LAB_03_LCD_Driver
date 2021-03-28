@@ -1,0 +1,25 @@
+--cpu=Cortex-M4.fp.sp
+"e62_lab_03_lcd_driver\startup_stm32f303xc.o"
+"e62_lab_03_lcd_driver\main.o"
+"e62_lab_03_lcd_driver\stm32f3xx_it.o"
+"e62_lab_03_lcd_driver\stm32f3xx_hal_msp.o"
+"e62_lab_03_lcd_driver\stm32f3xx_hal_tim.o"
+"e62_lab_03_lcd_driver\stm32f3xx_hal_tim_ex.o"
+"e62_lab_03_lcd_driver\stm32f3xx_hal.o"
+"e62_lab_03_lcd_driver\stm32f3xx_hal_rcc.o"
+"e62_lab_03_lcd_driver\stm32f3xx_hal_rcc_ex.o"
+"e62_lab_03_lcd_driver\stm32f3xx_hal_gpio.o"
+"e62_lab_03_lcd_driver\stm32f3xx_hal_dma.o"
+"e62_lab_03_lcd_driver\stm32f3xx_hal_cortex.o"
+"e62_lab_03_lcd_driver\stm32f3xx_hal_pwr.o"
+"e62_lab_03_lcd_driver\stm32f3xx_hal_pwr_ex.o"
+"e62_lab_03_lcd_driver\stm32f3xx_hal_flash.o"
+"e62_lab_03_lcd_driver\stm32f3xx_hal_flash_ex.o"
+"e62_lab_03_lcd_driver\stm32f3xx_hal_i2c.o"
+"e62_lab_03_lcd_driver\stm32f3xx_hal_i2c_ex.o"
+"e62_lab_03_lcd_driver\stm32f3xx_hal_exti.o"
+"e62_lab_03_lcd_driver\system_stm32f3xx.o"
+--library_type=microlib --strict --scatter "E62_LAB_03_LCD_Driver\E62_LAB_03_LCD_Driver.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "E62_LAB_03_LCD_Driver.map" -o E62_LAB_03_LCD_Driver\E62_LAB_03_LCD_Driver.axf
